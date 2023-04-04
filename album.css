@@ -1,0 +1,48 @@
+.container-fluid{
+    color: black;
+    padding-left: 100px;
+}
+.container-fluid b{
+    color: white;
+}
+.navbar-brand{
+    margin-left: 100px;
+    margin-top: 0;
+}
+.navbar button{
+    margin-right: 100px;
+}
+section .container{
+    margin-top: 200px;
+    height: 300px;  
+}
+.row{
+    text-align: center;
+}
+section .container h2{
+    font-weight: 200;
+}
+section .container p{
+    font-weight: 200;
+    font-size: 20px;
+}
+svg{
+    background-color: rgb(92, 92, 92);
+}
+article div {
+    float: left;
+    text-align: justify;
+    margin: auto;
+}
+article {
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;   
+    border-radius: 10px; 
+}
+footer{
+    margin-top: 50px
+}
+footer div{
+    float: left;
+}
